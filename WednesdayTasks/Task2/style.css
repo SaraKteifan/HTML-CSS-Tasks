@@ -1,0 +1,12 @@
+h1{color: rgb(253, 77, 180);
+    border-bottom: 10px dotted purple;}
+h3{color: grey;}
+p{font-size: larger;
+    width:50%;}
+ul{border: 3px solid purple;
+background-color: rgb(230, 225, 225);
+width:50%;
+padding-top:10px;
+padding-bottom: 10px;}
+#green{color:green;}
+a{color:red;}
