@@ -1,0 +1,9 @@
+h2 {color: rgb(77, 79, 214);
+    background-color: rgb(123, 179, 216);}
+.lb{color: rgb(81, 190, 226)}
+.db{color:rgb(89, 89, 223)}
+.hci{font-weight: bolder;}
+table, th, td {border: 1px solid;
+border-collapse: collapse;
+border-color: black;}
+.grey{background-color: rgb(223, 222, 222);}
