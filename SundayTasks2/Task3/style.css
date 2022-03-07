@@ -1,0 +1,18 @@
+.div1{width:100px;
+      height: 100px;
+      background-color: blue;
+      transition: width 2s;
+}
+.div1:hover{
+    width:300px;
+}
+
+
+.div2{width:100px;
+    height: 100px;
+    background-color: pink;
+    transition: width 1s,height 2s;
+}
+.div2:hover{width: 300px;
+            height:300px;
+}

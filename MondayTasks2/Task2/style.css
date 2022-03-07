@@ -1,0 +1,22 @@
+.parent{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 10vh 40vh 20vh;
+    gap: 15px;
+
+}
+
+.div1{ background-color: black;
+    grid-column-start: 1;
+    grid-column-end: 4;
+}
+.div2{ background-color: orange;
+    grid-column-start: 1;
+    grid-column-end: 3;
+
+}
+.div3{ background-color: green;}
+.div4{ background-color: blue;
+    grid-column-start: 1;
+    grid-column-end: 4;
+}
