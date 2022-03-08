@@ -1,0 +1,13 @@
+h1{background-color: rgb(248, 71, 39);}
+#p1{width:50%;}
+#p2{background-image: url("Pokemon.jpeg");
+    background-size: 300px;
+    background-repeat: no-repeat;
+color:red;
+height: 300px;
+width: 300px;
+padding: 30px;
+text-align:center;}
+a, h3, ul {text-transform: capitalize;}
+
+
